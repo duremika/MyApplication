@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Чат</string>
+    <string name="input">Сообщение</string>
+    <string name="just">только что</string>
+    <string name="few_minutes_ago">несколько минут назад</string>
+    <string name="hello">Добро пожаловать, </string>
+    <string name="succes">Успешный вход</string>
+    <string name="fail">Не удалось войти. Пожалуйста, попробуйте позднее.</string>
+    <string name="bye">Всего доброго</string>
+</resources>

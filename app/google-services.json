@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731927718627",
+    "firebase_url": "https://bogdanovmvchat.firebaseio.com",
+    "project_id": "bogdanovmvchat",
+    "storage_bucket": "bogdanovmvchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731927718627:android:593595a0a43f91bd9173d6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731927718627-irdgbiskql7ap8krdfsj40qsqfuc37h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "edb81958fb68ff491c4c8e297b4da146c03729fd"
+          }
+        },
+        {
+          "client_id": "731927718627-619duvads44vasnei9dq9l1codhnrqcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tDdeMmPqmVQGDJy62_MXnLJNu1g3YQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731927718627-619duvads44vasnei9dq9l1codhnrqcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
